@@ -1,0 +1,14 @@
+C:\Users\Stephan\Source\Repos\NLog_Test_Project\NLog_Test\NLog_Test\bin\Debug\NLog_Test.exe.config
+C:\Users\Stephan\Source\Repos\NLog_Test_Project\NLog_Test\NLog_Test\bin\Debug\NLog.config
+C:\Users\Stephan\Source\Repos\NLog_Test_Project\NLog_Test\NLog_Test\bin\Debug\NLog_Test.exe
+C:\Users\Stephan\Source\Repos\NLog_Test_Project\NLog_Test\NLog_Test\bin\Debug\NLog_Test.pdb
+C:\Users\Stephan\Source\Repos\NLog_Test_Project\NLog_Test\NLog_Test\bin\Debug\NLog_Test.xml
+C:\Users\Stephan\Source\Repos\NLog_Test_Project\NLog_Test\NLog_Test\bin\Debug\NLog.dll
+C:\Users\Stephan\Source\Repos\NLog_Test_Project\NLog_Test\NLog_Test\bin\Debug\NLog.xml
+C:\Users\Stephan\Source\Repos\NLog_Test_Project\NLog_Test\NLog_Test\obj\Debug\NLog_Test.vbprojResolveAssemblyReference.cache
+C:\Users\Stephan\Source\Repos\NLog_Test_Project\NLog_Test\NLog_Test\obj\Debug\NLog_Test.Resources.resources
+C:\Users\Stephan\Source\Repos\NLog_Test_Project\NLog_Test\NLog_Test\obj\Debug\NLog_Test.vbproj.GenerateResource.Cache
+C:\Users\Stephan\Source\Repos\NLog_Test_Project\NLog_Test\NLog_Test\obj\Debug\NLog_Test.exe
+C:\Users\Stephan\Source\Repos\NLog_Test_Project\NLog_Test\NLog_Test\obj\Debug\NLog_Test.xml
+C:\Users\Stephan\Source\Repos\NLog_Test_Project\NLog_Test\NLog_Test\obj\Debug\NLog_Test.pdb
+C:\Users\Stephan\Source\Repos\NLog_Test_Project\NLog_Test\NLog_Test\obj\Debug\NLog_Test.frmMain.resources
